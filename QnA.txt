@@ -7,3 +7,4 @@
 -[Rezwan Hossain] https://github.com/rrezwan7/learning-git
 -[Pallab Saha] https://github.com/pallab-saha/learning-git
 -[With Zonayed] https://github.com/WithZonayed/learning-git
+-[Md Azizul Hoque] https://github.com/mdazizulaman/learning-git-
